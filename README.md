@@ -13,8 +13,7 @@
   </div>
   
   ##
- www.linkedin.com/in/
-andre-valerio-serpeloni
+
 
 <div> 
   <a href="https://www.youtube.com/@andre270672" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
