@@ -3,8 +3,8 @@
 - 🍞 No momento trabalho na padaria da minha familia
 - 😃 Tenho como objetivo a curto prazo me tornar desenvolvedor de sistemas
 - 💻 Estou atualmente cursando Análise e Desenvolvimento de Sistema EAD na Anhanguera / Unopar
-- 👨‍🎓 Tambem estou fazendo cursos na Udemy como: JavaScript, HTML, CSS, SQL, PHP...
-- 📊 Tenho ampla experiencia com desenvolvimento de soluções utilizando Excel e VBA
+- 👨‍🎓 Tambem estou fazendo cursos na Udemy como: C#, SQL, PHP, JavaScript, HTML, CSS...
+- 📊 Tenho ampla experiencia com desenvolvimento de planilhas utilizando Excel e VBA
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
