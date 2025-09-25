@@ -2,7 +2,7 @@
 
 - 🍞 No momento trabalho na padaria da minha familia
 - 😃 Tenho como objetivo a curto prazo me tornar desenvolvedor de sistemas
-- 💻 Estou atualmente cursando Análise e Desenvolvimento de Sistema EAD na Anhanguera / Unopar
+- 💻 Formado recentemente em Análise e Desenvolvimento de Sistema EAD na Anhanguera / Unopar
 - 👨‍🎓 Tambem estou fazendo cursos na Udemy como: C#, SQL, PHP, JavaScript, HTML, CSS...
 - 📊 Tenho ampla experiencia com desenvolvimento de planilhas utilizando Excel e VBA
 
