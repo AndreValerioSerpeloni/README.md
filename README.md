@@ -1,9 +1,9 @@
 ### Olá. Sou André Valério Serpeloni
 
 - 🍞 No momento trabalho na padaria da minha familia
-- 😃 Tenho como objetivo a curto prazo me tornar desenvolvedor de sistemas
+- 😃 Tenho como objetivo me tornar desenvolvedor de sistemas
 - 💻 Formado recentemente em Análise e Desenvolvimento de Sistema EAD na Anhanguera / Unopar
-- 👨‍🎓 Tambem estou fazendo cursos na Udemy como: C#, SQL, PHP, JavaScript, HTML, CSS...
+- 👨‍🎓 Tambem estou fazendo cursos na Udemy como: C#, SQL, POWER BI ...
 - 📊 Tenho ampla experiencia com desenvolvimento de planilhas utilizando Excel e VBA
 
 <div style="display: inline_block"><br>
